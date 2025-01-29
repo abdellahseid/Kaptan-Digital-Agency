@@ -1,7 +1,7 @@
 
 # Kaptan Digital Agency – Deployment Source Code  
 
-This repository contains the deployment-ready source code for Kaptan Digital Agency, a modern and responsive digital agency website. Built using the MERN stack, this project is designed for seamless deployment and scalability.
+Kaptan Digital Agency is a modern, fully responsive website designed for digital agencies and creative businesses. This project features a sleek and professional design with smooth animations, interactive elements, and a user-friendly experience.
 
   Features:  
 - Modern and fully responsive design  
