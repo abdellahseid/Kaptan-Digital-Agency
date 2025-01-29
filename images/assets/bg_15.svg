@@ -1,0 +1,27 @@
+<svg width="1800" height="1485" viewBox="0 0 1800 1485" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.000488281 1371L1800 1371" stroke="black" stroke-opacity="0.13"/>
+<path d="M0.000488281 1137L1800 1137" stroke="black" stroke-opacity="0.13"/>
+<path d="M0.000488281 903L1800 903" stroke="black" stroke-opacity="0.13"/>
+<path d="M0.000488281 669L1800 669" stroke="black" stroke-opacity="0.13"/>
+<path d="M0.000488281 435L1800 435" stroke="black" stroke-opacity="0.13"/>
+<path d="M0.000488281 201L1800 201" stroke="black" stroke-opacity="0.13"/>
+<path d="M293 0V1485" stroke="black" stroke-opacity="0.13"/>
+<path d="M595 0V1485" stroke="black" stroke-opacity="0.13"/>
+<path d="M897 0V1485" stroke="black" stroke-opacity="0.13"/>
+<path d="M1199 0V1485" stroke="black" stroke-opacity="0.13"/>
+<path d="M1501 0V1485" stroke="black" stroke-opacity="0.13"/>
+<path d="M0.000488281 0H1800V1485H0.000488281V0Z" fill="url(#paint0_radial_969_1287)"/>
+<rect x="1800" y="1485" width="1800" height="423" transform="rotate(-180 1800 1485)" fill="url(#paint1_radial_969_1287)"/>
+<defs>
+<radialGradient id="paint0_radial_969_1287" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(921 626) rotate(136.648) scale(1229.46 1490.25)">
+<stop stop-color="#FCC62E"/>
+<stop offset="0.45814" stop-color="#FCC62E" stop-opacity="0.71"/>
+<stop offset="1" stop-color="#FCC62E" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_969_1287" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2721 1663.32) rotate(164.948) scale(925.761 563.754)">
+<stop stop-color="#FCC62E"/>
+<stop offset="0.45814" stop-color="#FCC62E" stop-opacity="0.71"/>
+<stop offset="1" stop-color="#FCC62E" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

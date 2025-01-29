@@ -1,0 +1,33 @@
+<svg width="1800" height="1165" viewBox="0 0 1800 1165" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 1042.21L1800 1042.21" stroke="white" stroke-opacity="0.13"/>
+<path d="M0 891.47L1800 891.469" stroke="white" stroke-opacity="0.13"/>
+<path d="M0 740.728L1800 740.728" stroke="white" stroke-opacity="0.13"/>
+<path d="M0 589.987L1800 589.987" stroke="white" stroke-opacity="0.13"/>
+<path d="M0 439.246L1800 439.246" stroke="white" stroke-opacity="0.13"/>
+<path d="M0 288.505L1800 288.505" stroke="white" stroke-opacity="0.13"/>
+<path d="M0 137.763L1800 137.763" stroke="white" stroke-opacity="0.13"/>
+<path d="M142 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M293 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M444 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M595 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M746 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M897 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M1048 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M1199 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M1350 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M1501 0V1165" stroke="white" stroke-opacity="0.13"/>
+<path d="M1652 0V1165" stroke="white" stroke-opacity="0.13"/>
+<mask id="mask0_969_562" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="2" width="1800" height="1160">
+<rect y="2" width="1800" height="1160" fill="#27884A"/>
+</mask>
+<g mask="url(#mask0_969_562)">
+<ellipse cx="691.027" cy="1170.04" rx="691.027" ry="1170.04" transform="matrix(-0.31657 0.948569 -0.95596 -0.293498 2265.14 260.649)" fill="url(#paint0_radial_969_562)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_969_562" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(691.027 1170.04) rotate(-173.26) scale(676.845 1159.47)">
+<stop offset="0.017688" stop-color="#00574A"/>
+<stop offset="0.541294" stop-color="#00574A" stop-opacity="0.74"/>
+<stop offset="1" stop-color="#00574A" stop-opacity="0.38"/>
+</radialGradient>
+</defs>
+</svg>
