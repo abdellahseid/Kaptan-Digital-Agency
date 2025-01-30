@@ -9,7 +9,7 @@ Kaptan Digital Agency is a modern, fully responsive website designed for digital
 - SEO-friendly and lightweight  
 - Easy to customize and deploy  
 
-  Technologies Used:  
+Technologies Used:  
 - **HTML5** – Structured and semantic markup  
 - **CSS3** – Styling with Bootstrap for responsiveness  
 - **JavaScript** – Interactive features and functionality  
